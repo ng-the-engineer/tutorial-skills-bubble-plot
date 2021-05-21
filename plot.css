@@ -5,3 +5,12 @@
 .bubbles:hover {
   stroke: black;
 }
+
+.toolTip {
+  position: absolute;
+  opacity: 0;
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+}
