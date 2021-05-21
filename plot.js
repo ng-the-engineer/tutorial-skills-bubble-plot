@@ -3,7 +3,7 @@ const width = 500 - margin.left - margin.right;
 const height = 420 - margin.top - margin.bottom;
 const xLabelHeight = 50;
 
-d3.csv("https://tutorial-node-api-k8s-ng-the-engineer.cloud.okteto.net/skills").then((data) => {
+  d3.csv("https://tutorial-node-api-k8s-ng-the-engineer.cloud.okteto.net/skills", (data)=> {
   // Add X axis - Year
   const x = d3
     .scaleLinear()
