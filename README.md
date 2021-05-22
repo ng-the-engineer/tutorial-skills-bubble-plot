@@ -1,6 +1,6 @@
 # Plot skills data as bubble chart
 
-This repository is for the tutorial [Visualise your skills with D3]().
+This repository is for the tutorial [Visualise your skills with D3](https://medium.com/geekculture/visualize-your-skills-with-d3-e95e5aefff52).
 
 The bubble chart is available [Github Pages](https://ng-the-engineer.github.io/tutorial-skills-bubble-plot/index.html). 🔥
 
